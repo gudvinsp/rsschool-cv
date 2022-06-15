@@ -69,7 +69,7 @@ html {
   }
   .contacts {
     align-items: center;
-    background: rgb(244, 246, 245);
+    background: rgb(59, 169, 114);
     padding: 20px;
     border-radius: 1000px;
     margin: 50px;
@@ -92,18 +92,23 @@ html {
     list-style: none;
   }
     .code {
-    background: rgb(238, 208, 208);
-    padding: 15px;
-    border-radius: 30px;
-    margin: 20px;
+      align-items: center;
+      background: rgb(59, 169, 114);
+      padding: 20px;
+      border-radius: 1000px;
+      margin: 50px;
+      list-style: none;
     }
     .projects {
-      background: rgb(242, 212, 212);
-      padding: 15px;
-      border-radius: 30px;
-      margin: 20px;
+      align-items: center;
+      background: rgb(59, 169, 114);
+      padding: 20px;
+      border-radius: 1000px;
+      margin: 50px;
+      list-style: none;
       }
       .education {
+        align-items: center;
         background: rgb(59, 169, 114);
         padding: 20px;
         border-radius: 1000px;
@@ -111,8 +116,10 @@ html {
         list-style: none;
       }
         .english {
-          background: rgb(242, 212, 212);
-          padding: 15px;
-          border-radius: 30px;
-          margin: 20px;
+          align-items: center;
+          background: rgb(59, 169, 114);
+          padding: 20px;
+          border-radius: 1000px;
+          margin: 50px;
+          list-style: none;
           }
